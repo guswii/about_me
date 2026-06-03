@@ -1,4 +1,4 @@
-- 👋 Hi, I’m WII
+- 👋 Hi, I’m Ida Bagus Wibawa, you can call me Gus Wi
 - 👀 I’m interested in Software Developer & Cyber Security
 - 🌱 I’m currently studying at the Institut Bisnis dan Teknologi Indonesia (INSTIKI)
 - 📫 How to reach me?
